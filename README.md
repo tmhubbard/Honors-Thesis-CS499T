@@ -1,2 +1,4 @@
-# honors-thesis
-My thesis on "Evaluating Player Decisions in Ethical Simulations"
+# Honors Thesis
+This repo contains my honors thesis, _Evaluating Player Decisions in Ethical Simulations_. As a part of being in UMass's [Commonwealth Honors College](https://www.umass.edu/honors/), I was expected to research and write a thesis on some topic of particular interest. Under the direction of my advisor, [Professor Leon Osterweil](http://laser.cs.umass.edu/people/ljo.html), I worked towards implementing an evaluation mechanism into an ethical simulation we were developing. 
+
+Teaching students how to navigate ethical dilemmas in the workplace is something that's absolutely _essential_ in today's world, but it's so often an afterthought in so many college cirriciulums. As a response to this, Professor Osterweil had the idea of developing an interactive simulation to expose students to a theoretical dilemma. Over the course of the year I worked alongside him, I wrote my own ethical dilemma scenario, worked to implement it into the simulation framework that our team was developing, and created a mechanism by which player decisions could be evaluated. My thesis was focused on this evaluation mechanism! 
